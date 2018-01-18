@@ -4,7 +4,7 @@ Created on Thu Dec 14 16:22:37 2017
 
 @author: potato
 
-v0.01 #只包含run方法
+v0.01 #只包含run方法111111
 """
 
 import numpy as np

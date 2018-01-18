@@ -256,7 +256,7 @@ class DeepNetDigitalGraphLearn(DeepNet):
 
 if __name__ == "__main__":
 
-    train_raw = spio.loadmat("../../demo_withnote/tfgirls/data/train_32x32.mat")
+    train_raw = spio.loadmat("../../../learning/demo_withnote/tfgirls/data/train_32x32.mat")
 #    test_raw = spio.loadmat("../../demo_withnote/tfgirls/data/test_32x32.mat")
 #    extra_raw = spio.loadmat("../../demo_withnote/tfgirls/data/extra_32x32.mat")
     
